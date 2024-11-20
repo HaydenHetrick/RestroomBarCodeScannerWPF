@@ -1,0 +1,2 @@
+# RestroomBarCodeScannerWPF
+Using OpenCV
