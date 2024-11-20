@@ -1,0 +1,2 @@
+Recognized Barcode: A342198A, Student Name: Hayden Hetrick, Time: 2024-11-20 11:48:20, State: Time Left
+Recognized Barcode: A342198A, Student Name: Hayden Hetrick, Time: 2024-11-20 11:48:49, State: Time Left

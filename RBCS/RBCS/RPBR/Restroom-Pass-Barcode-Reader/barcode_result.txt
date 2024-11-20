@@ -1,0 +1,9 @@
+Recognized Barcode: A342198A, Student Name: Hayden Hetrick, Time: 2023-10-23 09:51:34, State: Time Left
+Recognized Barcode: A342198A, Student Name: Hayden Hetrick, Time: 2023-10-23 09:51:53, State: Time Back
+Recognized Barcode: A342100A, Student Name: Alexander Lipp, Time: 2023-10-23 09:52:09, State: Time Left
+Recognized Barcode: A342100A, Student Name: Alexander Lipp, Time: 2023-10-23 09:52:22, State: Time Back
+Recognized Barcode: A342198A, Student Name: Hayden Hetrick, Time: 2023-10-23 09:52:26, State: Time Back
+Recognized Barcode: 984269, Student Name: Unknown, Time: 2023-10-23 09:52:40, State: Time Left
+Recognized Barcode: A342198A, Student Name: Hayden Hetrick, Time: 2024-11-20 11:27:24, State: Time Left
+Recognized Barcode: A342198A, Student Name: Hayden Hetrick, Time: 2024-11-20 11:27:29, State: Time Back
+Recognized Barcode: A342198A, Student Name: Hayden Hetrick, Time: 2024-11-20 11:27:35, State: Time Back
